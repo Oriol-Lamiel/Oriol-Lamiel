@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oriol-Lamiel
+- 👋 Hi, I’m @Cthulucodes
 - 👀 I’m interested in machine learning, computational science and web development. 
 - 🌱 I’m currently learning python, html, js, css
 - 💞️ I’m looking to collaborate on ...
